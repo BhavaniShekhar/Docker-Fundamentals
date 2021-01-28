@@ -1,7 +1,7 @@
 
 
 FROM alpine:latest
-MAINTAINER Sreeprakash Neelakantan <sree@schogini.com>
+MAINTAINER Vybhava <vybhavatechnologies@gmail.com>
 
-CMD echo "Hello World 123!"
+CMD echo "Vybhava Technologies 2021! \nDocker Fundamentals"
 
